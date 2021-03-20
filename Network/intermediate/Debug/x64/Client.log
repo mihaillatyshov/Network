@@ -1,0 +1,35 @@
+﻿
+Итоги по проекту:
+       19 мс вызовов   1 I:\CPP_Team\Network\Network\Client\Client.vcxproj
+                 19 мс вызовов   1 Clean                                   
+
+Итоги по целям:
+        0 мс вызовов   1 CleanReferencedProjects                 
+        0 мс вызовов   1 AfterCppClean                           
+        0 мс вызовов   1 BeforeCppClean                          
+        0 мс вызовов   1 AfterClean                              
+        0 мс вызовов   1 CleanPublishFolder                      
+        0 мс вызовов   1 CppClean                                
+        0 мс вызовов   1 PrepareProjectReferences                
+        0 мс вызовов   1 Clean                                   
+        0 мс вызовов   1 _SplitProjectReferencesByFileExistence  
+        0 мс вызовов   1 BeforeClean                             
+        0 мс вызовов   1 PGInstrumentedClean                     
+        0 мс вызовов   1 AssignProjectConfiguration              
+        0 мс вызовов   1 _GetProjectReferenceTargetFrameworkProperties
+        1 мс вызовов   1 _PrepareForClean                        
+        1 мс вызовов   1 _CheckForInvalidConfigurationAndPlatform
+        2 мс вызовов   1 CoreClean                               
+       12 мс вызовов   1 CoreCppClean                            
+
+Итоги по задачам:
+        0 мс вызовов   2 Message                                 
+        0 мс вызовов   1 ReadLinesFromFile                       
+        0 мс вызовов   1 RemoveDuplicates                        
+        0 мс вызовов   2 FindUnderPath                           
+        0 мс вызовов   2 MakeDir                                 
+        0 мс вызовов   4 Delete                                  
+        0 мс вызовов   1 AssignProjectConfiguration              
+        0 мс вызовов   1 MSBuild                                 
+        1 мс вызовов   2 WriteLinesToFile                        
+       11 мс вызовов   1 CppClean                                
